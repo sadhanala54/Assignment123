@@ -1,2 +1,2 @@
 # Assignment123
-Arraylist Assignment
+all assignments @Arrya-list-assignment@polindrom
